@@ -1,0 +1,27 @@
+{
+  "name": "cuttly",
+  "version": "1.0.0",
+  "description": "Unofficial API for cutt.ly url shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmalo/cuttly.git"
+  },
+  "keywords": [
+    "cuttly",
+    "url",
+    "shortener"
+  ],
+  "author": "Thierry Malo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tmalo/cuttly/issues"
+  },
+  "homepage": "https://github.com/tmalo/cuttly#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
