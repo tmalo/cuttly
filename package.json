@@ -1,6 +1,6 @@
 {
   "name": "cuttly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial API for cutt.ly url shortener",
   "main": "index.js",
   "scripts": {
